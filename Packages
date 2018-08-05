@@ -1,0 +1,15 @@
+Package: com.zeekforit.musicwidgetforall
+Name: MusicWidgetForAll
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: A simple music widget for you :)
+Depiction: https://twitter.com/zeekforit
+Depends: com.junesiphone.xeninfo
+Section: Widgets
+Author: ZeeK <@zeekforit>
+Maintainer: ZeeK <@zeekforit>
+Filename: musicwidgetforall.deb
+Size: 119200
+MD5sum: 41793ce9884e8794727e72c875f72484
+SHA1: d79ecb95da271e7a6a6ddd1dded9f64c22bcc041
+SHA256: 5636547eb3f56fe58ac0ad451dee9f602f25e7e09a37c2adaf63690fb724a69d
