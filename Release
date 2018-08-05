@@ -1,8 +1,8 @@
-Origin: ZeeK's Repo (Change this)
-Label: ZeeK's Repo (Change this)
+Origin: ZeeK's Repo
+Label: ZeeK's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: ZeeK's Repo (Change this)
+Description: ZeeK's Repo
