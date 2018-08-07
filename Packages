@@ -24,9 +24,9 @@ Section: Widgets
 Author: ZeeK (@zeekforit)
 Maintainer: ZeeK (@zeekforit)
 Filename: ./deb/musicwidgetforall_1.0.2.deb
-Size: 119316
-MD5sum: f49de8caa4e6b67bd8dd60bff722a71b
-SHA1: e31476789e3a2c2d644b5d61f38474b31cbfa5d0
-SHA256: 933eb47f0ec4a673431aa488500ff05b60c9b1d25d454fc4b450f85139792e58
+Size: 119372
+MD5sum: cd0e8367f7d817a7f4eb7af6c34dfa4b
+SHA1: c70be101cefb7e2f3341f7348f661ac958c359d0
+SHA256: e023c79503f8dab3104e089cc94f7d684e9955d7accfaf68a219fd91400af84f
 Name: MusicWidgetForAll
 
