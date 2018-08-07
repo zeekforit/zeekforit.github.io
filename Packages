@@ -8,7 +8,7 @@ Depends: com.junesiphone.xeninfo
 Section: Widgets
 Author: ZeeK (@zeekforit)
 Maintainer: ZeeK (@zeekforit)
-Filename: musicwidgetforall.deb
+Filename: ./deb/musicwidgetforall_1.0.1.deb
 Size: 119326
 MD5sum: 527308eec2d00554b42a0baa93d9b12e
 SHA1: aa8821654855301b271906930a2b5a0a47f210be
