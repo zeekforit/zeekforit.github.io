@@ -2,7 +2,6 @@ Package: com.zeekforit.musicwidgetforall
 Version: 1.0.1
 Architecture: iphoneos-arm
 Description: A simple music widget for you :)
-Depiction: https://twitter.com/zeekforit
 Depends: com.junesiphone.xeninfo
 Section: Widgets
 Author: ZeeK (@zeekforit)
@@ -19,7 +18,6 @@ Package: com.zeekforit.musicwidgetforall
 Version: 1.0.2
 Architecture: iphoneos-arm
 Description: A simple music widget for you :)
-Depiction: https://twitter.com/zeekforit
 Depends: com.junesiphone.xeninfo
 Section: Widgets
 Author: ZeeK (@zeekforit)
@@ -32,3 +30,18 @@ SHA256: e023c79503f8dab3104e089cc94f7d684e9955d7accfaf68a219fd91400af84f
 Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.musicwidgetforall
 Name: MusicWidgetForAll
 
+Package: com.zeekforit.musicwidgetforall
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: A simple music widget for you :)
+Depends: com.junesiphone.xeninfo
+Section: Widgets
+Author: ZeeK (@zeekforit)
+Maintainer: ZeeK (@zeekforit)
+Filename: ./deb/musicwidgetforall_1.0.3.deb
+Size: 119372
+MD5sum: 8092d7706ae21f1b9d1e667ece736b30
+SHA1: 81684edafd788dc9b10bac85d07027ffec107897
+SHA256: ee6a91dec569e162413a7ed3565de41f52ea4f5c064cd6e1265f6d21bea7723d
+Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.musicwidgetforall
+Name: MusicWidgetForAll
