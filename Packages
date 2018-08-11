@@ -12,6 +12,7 @@ Size: 119326
 MD5sum: 527308eec2d00554b42a0baa93d9b12e
 SHA1: aa8821654855301b271906930a2b5a0a47f210be
 SHA256: 858c32c66cb0acb41eea9f72602dc8ef1c3735b197e1fe52ecb26a5abda57130
+Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.musicwidgetforall
 Name: MusicWidgetForAll
 
 Package: com.zeekforit.musicwidgetforall
@@ -28,21 +29,6 @@ Size: 119372
 MD5sum: cd0e8367f7d817a7f4eb7af6c34dfa4b
 SHA1: c70be101cefb7e2f3341f7348f661ac958c359d0
 SHA256: e023c79503f8dab3104e089cc94f7d684e9955d7accfaf68a219fd91400af84f
+Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.musicwidgetforall
 Name: MusicWidgetForAll
 
-Package: com.zeekforit.musicwidgetforall
-Version: 1.0.3
-Architecture: iphoneos-arm
-Description: A simple music widget for you :)
-Depiction: https://twitter.com/zeekforit
-Depends: com.junesiphone.xeninfo
-Section: Widgets
-Author: ZeeK (@zeekforit)
-Maintainer: ZeeK (@zeekforit)
-Filename: ./deb/musicwidgetforall_1.0.2.deb
-Size: 119372
-MD5sum: cd0e8367f7d817a7f4eb7af6c34dfa4b
-SHA1: c70be101cefb7e2f3341f7348f661ac958c359d0
-SHA256: e023c79503f8dab3104e089cc94f7d684e9955d7accfaf68a219fd91400af84f
-Name: MusicWidgetForAll
-Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.musicwidgetforall
