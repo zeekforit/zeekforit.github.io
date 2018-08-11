@@ -9,12 +9,11 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>Anemone</package>
+		<package>XenInfo/package>
 	</dependencies>
 	<descriptionlist>
-		<description><![CDATA[<b>Installed to:</b> </ br>/Library/Themes/ <br /> <br />
-                          <b>Apply with Anemone</b>]]></description>
-		<description>Page dots in the shape of X's and O's</description>
+		<description><![CDATA[]]></description>
+		<description>Music Widget For All</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -22,6 +21,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Version 1.0.3</change>
 	</changelog>
 </package>
