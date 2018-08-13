@@ -1,0 +1,18 @@
+﻿<package>
+	<id>com.zeekforit.allowtouchesonpagedots</id>
+	<name>AllowTouchesOnPageDots</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Install and respring</description>
+		<description>This will hide page dots while allowing users to touch anything behind it.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Version 1.0.1</change>
+	</changelog>
+</package>
