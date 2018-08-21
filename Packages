@@ -4,8 +4,8 @@ Architecture: iphoneos-arm
 Description: A simple music widget for you :)
 Depends: com.junesiphone.xeninfo
 Section: Widgets
-Author: ZeeK (@zeekforit)
-Maintainer: ZeeK (@zeekforit)
+Author: ZeeK <@zeekforit>
+Maintainer: ZeeK <@zeekforit>
 Filename: ./deb/musicwidgetforall_1.0.1.deb
 Size: 119326
 MD5sum: 527308eec2d00554b42a0baa93d9b12e
@@ -20,8 +20,8 @@ Architecture: iphoneos-arm
 Description: A simple music widget for you :)
 Depends: com.junesiphone.xeninfo
 Section: Widgets
-Author: ZeeK (@zeekforit)
-Maintainer: ZeeK (@zeekforit)
+Author: ZeeK <@zeekforit>
+Maintainer: ZeeK <@zeekforit>
 Filename: ./deb/musicwidgetforall_1.0.2.deb
 Size: 119372
 MD5sum: cd0e8367f7d817a7f4eb7af6c34dfa4b
@@ -36,24 +36,8 @@ Architecture: iphoneos-arm
 Description: A simple music widget for you :)
 Depends: com.junesiphone.xeninfo
 Section: Widgets
-Author: ZeeK (@zeekforit)
-Maintainer: ZeeK (@zeekforit)
-Filename: ./deb/musicwidgetforall_1.0.3.deb
-Size: 158070
-MD5sum: 8092d7706ae21f1b9d1e667ece736b30
-SHA1: 81684edafd788dc9b10bac85d07027ffec107897
-SHA256: ee6a91dec569e162413a7ed3565de41f52ea4f5c064cd6e1265f6d21bea7723d
-Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.musicwidgetforallh
-Name: MusicWidgetForAll
-
-Package: com.zeekforit.musicwidgetforall
-Version: 1.0.3
-Architecture: iphoneos-arm
-Description: A simple music widget for you :)
-Depends: com.junesiphone.xeninfo
-Section: Widgets
-Author: ZeeK (@zeekforit)
-Maintainer: ZeeK (@zeekforit)
+Author: ZeeK <@zeekforit>
+Maintainer: ZeeK <@zeekforit>
 Filename: ./deb/musicwidgetforall_1.0.3.deb
 Size: 158070
 MD5sum: 8092d7706ae21f1b9d1e667ece736b30
@@ -62,3 +46,18 @@ SHA256: ee6a91dec569e162413a7ed3565de41f52ea4f5c064cd6e1265f6d21bea7723d
 Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.musicwidgetforall
 Name: MusicWidgetForAll
 
+Package: com.zeekforit.musicwidgetforall
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: A simple music widget for you :)
+Depends: com.junesiphone.xeninfo
+Section: Widgets
+Author: ZeeK <@zeekforit>
+Maintainer: ZeeK <@zeekforit>
+Filename: ./deb/musicwidgetforall_2.0.1.deb
+Size: 158212
+MD5sum: 5db81fb49b0154a8b4430dcfc45524a1
+SHA1: f7e9841fadebe8da3b2667a32d75d9eb6610a1de
+SHA256: 0975e58741e498024dae35f38f47d2f2bd393fccde9f3bad89e6a10e046e69af
+Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.musicwidgetforall
+Name: MusicWidgetForAll
