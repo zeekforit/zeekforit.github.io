@@ -1,18 +1,3 @@
-Package: com.zeekforit.allowtouchesonpagedots
-Version: 1.0.1
-Architecture: iphoneos-arm
-Description: This will hide page dots while allowing users to touch anything behind it
-Section: Tweaks
-Author: ZeeK <@zeekforit>
-Maintainer: ZeeK <@zeekforit>
-Filename: ./deb/allowtouchesonpagedots_1.0.1.deb
-Size: 3718
-MD5sum: 4b32c6c056a2ab0efe749dab2005cbaf
-SHA1: 7a35426bf287d714022ceb47eea0a6f830e99dde
-SHA256: 802962208b71f8e6b58e2df7ad2ed13e6331d67848cde1c52d9ed8a4b198c1c8
-Depiction: https://zeekforit.github.io/depictions/?p=allowtouchesonpagedots
-Name: AllowTouchesOnPageDots
-
 Package: com.zeekforit.musicwidgetforall
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -76,3 +61,19 @@ SHA1: f7e9841fadebe8da3b2667a32d75d9eb6610a1de
 SHA256: 0975e58741e498024dae35f38f47d2f2bd393fccde9f3bad89e6a10e046e69af
 Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.musicwidgetforall
 Name: MusicWidgetForAll
+
+Package: com.zeekforit.allowtouchesonpagedots
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: This will hide page dots while allowing users to touch anything behind it
+Section: Tweaks
+Author: ZeeK <@zeekforit>
+Maintainer: ZeeK <@zeekforit>
+Filename: ./deb/allowtouchesonpagedots_1.0.1.deb
+Size: 3718
+MD5sum: 4b32c6c056a2ab0efe749dab2005cbaf
+SHA1: 7a35426bf287d714022ceb47eea0a6f830e99dde
+SHA256: 802962208b71f8e6b58e2df7ad2ed13e6331d67848cde1c52d9ed8a4b198c1c8
+Depiction: https://zeekforit.github.io/depictions/?p=allowtouchesonpagedots
+Name: AllowTouchesOnPageDots
+
