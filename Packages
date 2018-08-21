@@ -66,8 +66,8 @@ Package: com.zeekforit.allowtouchesonpagedots
 Version: 1.0.1
 Architecture: iphoneos-arm
 Description: This will hide page dots while allowing users to touch anything behind it.
-Section: Tweaks
 Depends: mobilesubstrate
+Section: Tweaks
 Author: ZeeK <@zeekforit>
 Maintainer: ZeeK <@zeekforit>
 Filename: ./deb/allowtouchesonpagedots_1.0.1.deb
