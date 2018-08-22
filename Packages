@@ -70,11 +70,11 @@ Depends: mobilesubstrate
 Section: Tweaks
 Author: ZeeK <@zeekforit>
 Maintainer: ZeeK <@zeekforit>
-Filename: ./deb/allowtouchesonpagedots_1.0.1.deb
-Size: 3718
-MD5sum: 4b32c6c056a2ab0efe749dab2005cbaf
-SHA1: 7a35426bf287d714022ceb47eea0a6f830e99dde
-SHA256: 802962208b71f8e6b58e2df7ad2ed13e6331d67848cde1c52d9ed8a4b198c1c8
+Filename: ./deb/com.zeekforit.allowtouchesonpagedots_1.0.1-1+debug_iphoneos-arm.deb
+Size: 3676
+MD5sum: 45ada345448506e0c459785e85f9a971
+SHA1: 34bdf1bd3e181757b7df9705aa3bfe69b6b90076
+SHA256: 06481c35bce8e5cf207a3057353cab805e0eb48169064e92a6e186e9b6e87ee2
 Depiction: https://zeekforit.github.io/depictions/?p=allowtouchesonpagedots
 Name: AllowTouchesOnPageDots
 
